@@ -18,13 +18,10 @@ ext{
     compileSdkVersion = 32
 
 
-    group = 'org.eclipse.paho'
+    group = 'ru.sportmaster.mqtt'
 
-    sampleArchivesBaseName = 'inder.paho.mqtt'
-    sampleVersion = '1.1.3'
-
-    serviceArchivesBaseName = 'inder.paho.mqtt'
-    serviceVersion = '1.1.4'
+    serviceArchivesBaseName = 'ru.sportmaster.mqtt.service'
+    serviceVersion = '1.0.0'
 
     clientVersion = '1.1.0'
 

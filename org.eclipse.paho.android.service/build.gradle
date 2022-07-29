@@ -131,9 +131,9 @@ clean.dependsOn("copyLibs").doLast{
 //    into 'libs'
 //    include 'org.eclipse.paho*'
 }
-assemble.dependsOn("renameReleaseAAR").doLast {
-   // renameReleaseAAR.execute()
-}
+//assemble.dependsOn("renameReleaseAAR").doLast {
+//    renameReleaseAAR.execute()
+//}
 
 clean.doFirst {
     delete 'libs'
