@@ -20,7 +20,7 @@ ext{
 
     group = 'ru.sportmaster.mqtt'
 
-    serviceArchivesBaseName = 'ru.sportmaster.mqtt.service'
+    serviceArchivesBaseName = 'org.eclipse.paho.android.service.sportmaster'
     serviceVersion = '1.0.0'
 
     clientVersion = '1.1.0'
